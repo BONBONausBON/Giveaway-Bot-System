@@ -8,7 +8,7 @@ Amazing website with good UI design for new Discord bots, designed with Bootstra
 
 # Reedroux.fm
 
-Coded Made by ImToasting#0001 and Skillz#9689
+Coded Made by TwoDawg#0001 and khabibwastaken
 
 [Discord Server ](https://discord.gg/bX9JQPBcpy)
 (https://reedroux-fm.vercel.app/#))
@@ -22,17 +22,17 @@ Open index.html and start to use the website
 
 ## Developer:
 
-* [JakeyFreemix](https://github.com/JakeyFreemix) - Founder & CEO
+* [dawgscodes](https://github.com/dawgscodes) - Founder & CEO
 
 
 ## Authors
 
-[Nouridio](https://github.com/JakeyFreemix)
+[Zozo](https://github.com/zozo82897)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-### Support Nouridio
+### Support dawgscodes
 
 Support me and get access to new free website templates and premium website design.
